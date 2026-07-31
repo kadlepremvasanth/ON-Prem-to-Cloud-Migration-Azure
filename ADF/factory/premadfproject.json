@@ -1,0 +1,15 @@
+{
+	"name": "premadfproject",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "48335944-3778-4a1d-827b-5fbdde2d5e7f",
+		"tenantId": "3d70bb62-df8f-4f2b-ae19-030cad77c6e0"
+	}
+}

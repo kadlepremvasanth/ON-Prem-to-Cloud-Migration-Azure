@@ -1,0 +1,21 @@
+{
+	"name": "ds_api_sinks",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "Ls_datalake",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "Json",
+		"typeProperties": {
+			"location": {
+				"type": "AzureBlobFSLocation",
+				"fileName": "DimAirport.json",
+				"folderPath": "GITHUB",
+				"fileSystem": "bronze"
+			}
+		},
+		"schema": {}
+	},
+	"type": "Microsoft.DataFactory/factories/datasets"
+}

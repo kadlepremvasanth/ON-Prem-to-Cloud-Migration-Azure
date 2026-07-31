@@ -1,0 +1,6 @@
+{
+	"name": "premruntime",
+	"properties": {
+		"type": "SelfHosted"
+	}
+}
