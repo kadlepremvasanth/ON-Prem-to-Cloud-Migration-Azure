@@ -1,3 +1,4 @@
+<img width="629" height="353" alt="Screenshot 2026-08-06 112028" src="https://github.com/user-attachments/assets/0b4d09e4-86bc-4614-9548-44017e8d479f" />
 # ON-Prem to Cloud Migration – Azure Data Engineering Project
 
 An end-to-end data engineering project that migrates on-premises and API data to Azure, transforms it using a Medallion Architecture, and deploys everything through a CI/CD pipeline with Git, GitHub, and Azure DevOps.
